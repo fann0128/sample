@@ -1,5 +1,16 @@
 @extends('layouts.default')
 @section('title', 'Home')
 @section('content')
-  <h1>home</h1>
+  <div class="jumbotron">
+    <h1>Hello World</h1>
+    <p class="lead">
+      !_!
+    </p>
+    <p>
+      Fan
+    </p>
+    <p>
+      <a class="btn btn-lg btn-success" href="#" role="button">Sign Up</a>
+    </p>
+  </div>
 @stop
