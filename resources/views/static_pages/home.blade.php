@@ -2,7 +2,7 @@
 @section('title', 'Home')
 @section('content')
   <div class="jumbotron">
-    <h1>Hello World</h1>
+    <h1>Hello !</h1>
     <p class="lead">
       !_!
     </p>
@@ -10,7 +10,7 @@
       Fan
     </p>
     <p>
-      <a class="btn btn-lg btn-success" href="#" role="button">Sign Up</a>
+      <a href="{{ route('signup') }}" class="btn btn-lg btn-success" href="#" role="button">Sign Up</a>
     </p>
   </div>
 @stop
