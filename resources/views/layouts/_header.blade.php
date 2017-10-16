@@ -5,7 +5,7 @@
       <nav>
         <ul class="nav navbar-nav navbar-right">
           <li><a href="{{ route('help') }}">Help</a></li>
-          <li><a href="#"></a>Login</li>
+          <li><a href="#">Login</a></li>
         </ul>
       </nav>
     </div>
